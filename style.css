@@ -1,0 +1,20 @@
+.top-header {
+	margin-bottom: 30px;
+}
+
+.header td {
+	background-color: pink;
+	font-weight: bold;
+}
+
+.top-nav {
+	text-align: right;
+	font-weight: bold;
+}
+.logo {
+	width: 100px;
+}
+.brand-name {
+	font-size: 25px;
+	font-weight: bold;
+}
