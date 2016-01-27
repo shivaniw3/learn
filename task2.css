@@ -1,0 +1,32 @@
+.header {
+ font-weight:bold;
+ margin-bottom: 30px;
+}
+.header1{
+color: blue;
+font-family: georgia;
+}
+.header2{
+	color: green;
+	font-style: italic;
+}
+.header3{
+	color: #F906C1;
+	font-family: arial;
+}
+.header4{
+	font-family: black arial;
+}
+.header5{
+	color: #A90707;
+}
+.header6{
+	font-style: italic;
+}
+.header7{
+	color: yellow;
+	background-color: #02B16A;
+}
+.header8{
+	color: red;
+}
