@@ -1,0 +1,44 @@
+.log1{
+	border: 1px dashed green;
+	padding: 20px;
+	margin: 10px;
+
+}
+.log2{
+	text-align: center;
+}
+.log3{
+	background-color:hsl(75, 91%, 64%);
+}
+.log4{
+	height: 60px;
+	background: yellow;
+	border: 1px dashed black;
+}
+.log5{
+	height: 90px;
+	background: #7CDE78;
+	border: 1px dashed green;
+}
+.log6{
+	text-align: center;
+	font-weight: bold;	
+}
+.log7{
+	color: green;
+}
+.log8{
+	color: #036103;
+}
+.log9{
+	margin-left: 20px;
+	margin-right: 20px;
+}
+.log10{
+	margin-left: 20px;
+	margin-right: 20px;
+}
+.log11{
+	margin-left: 20px;
+	margin-right: 20px;
+}
