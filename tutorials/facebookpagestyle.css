@@ -1,0 +1,108 @@
+.header1{
+	padding: 0;
+	margin: 0 0 20px 0;
+
+}
+.header{
+	background-color: #3A5795;
+	height: 105px;
+}
+.header3{
+	padding-top: 30px;
+	padding-left: 25px;
+	color: white;
+	font-size: 55px;
+}
+.box1{
+	float: right;
+	color: white;
+	margin-top: -80px;
+	padding-right: 310px;
+	}
+	
+.textbox1{
+	height: 28px;
+	width: 200px;
+}
+.box2{
+	float:right;
+	color:white;
+	margin-top: -80;
+	padding-right: 90px;
+}
+.textbox2{
+	height: 28px;
+	width: 200px;
+}
+.button{
+	float: right;
+  margin-top: -58px;
+	padding-right: 25px;
+}
+.sidebar1{
+	float: right;
+	padding-right: 30px;
+	width: 500px;
+}
+.sidebar1 h2{
+	font-size: 42px;
+}
+.sidebar1 h3{
+	font-size: 30px;
+	font-weight: normal;
+}
+.form-fields {
+	margin-bottom: 10px;
+}
+
+.form-fields input {
+	height: 45px;
+	border: 1px solid #9F9FA9;
+	border-radius: 4px;
+}
+
+.full-width {
+	width: 100%;
+}
+.boxsize{
+	height: 35px;
+	width: 65px;
+}
+.insidebox{
+	background: green;
+	height: 45px;
+	width: 270px
+}
+.sidebar2{
+	float: left;
+	padding-left: 20px;
+	font-size: 25px;
+	padding-right: 400px;
+	margin-top: -685px;
+	width: 550;
+}
+.language li{
+	float: left;
+	margin-right: 30px;
+}
+.clearfix{
+	clear: both;
+}
+.footer{
+	margin-bottom: 20px;
+
+}
+.tan{
+	float: right;
+	padding-right: 90px;
+	margin-top: -35px;
+	width: 190px;
+}
+a{
+	text-decoration: none;
+}
+.design{
+	margin-left: 40px;
+	margin-right: 40px;
+}
+
